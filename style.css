@@ -30,9 +30,13 @@ header{
     display: flex;
     justify-content: space-around;
 }
-header nav{
-    display: flex;
-    align-items: center;
+header nav {
+  display: flex;
+  align-items: center;
+}
+header nav a {
+  margin-right: 1.3em;
+  font-size: 1.2em;
 }
 header nav ul{
     list-style: none;
@@ -443,6 +447,7 @@ footer {
         gap: 0.5rem;
     }
 }
+
 
 
 
