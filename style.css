@@ -28,7 +28,7 @@ header{
     background-color: #0c148d;
     z-index: 9999;;
     display: flex;
-    justfy-content: space-around;
+    justify-content: space-around;
 }   
 header nav ul{
     list-style: none;
@@ -439,6 +439,7 @@ footer {
         gap: 0.5rem;
     }
 }
+
 
 
 
